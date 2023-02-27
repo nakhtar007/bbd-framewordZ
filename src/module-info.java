@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Zafar
+ *
+ */
+module javaNewProject {
+}
